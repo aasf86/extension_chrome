@@ -1,0 +1,22 @@
+{
+  "name": "extension_chrome",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aasf86/extension_chrome.git"
+  },
+  "author": "aasf86",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aasf86/extension_chrome/issues"
+  },
+  "homepage": "https://github.com/aasf86/extension_chrome#readme",
+  "dependencies": {
+    "edge": "^5.9.2"
+  }
+}
